@@ -6,10 +6,9 @@ Opi Hill is one of the most notable features in Nsukka Local Government Area. It
 
 The relief and topography of Nsukka Local Government Area have significant implications for its natural resources and agricultural potential. The hills and valleys provide an opportunity for ecological diversity, supporting a variety of plant and animal species. The presence of these hills also creates microclimates, influencing the local climate and rainfall patterns.
 
-https://github.com/OceeDiTT/Topographic-Map-of-Nsukka-MAP/blob/main/Topographic%20map%20of%20Nsukka.jpg
+![alt text](https://github.com/OceeDiTT/Topographic-Map-of-Nsukka-MAP/blob/main/Topographic%20map%20of%20Nsukka.jpg?raw=true)
 
 
-
-### Data: SRTM DEM data(usgs earthexplorer) and Nigerian Road and waterline data (diva gis)
-### Coordinate System: WGS 84
-### Tools: QGIS and ArcGIS 10.8
+##### Data: SRTM DEM data(usgs earthexplorer) and Nigerian Road and waterline data (diva gis)
+##### Coordinate System: WGS 84
+##### Tools: QGIS and ArcGIS 10.8
